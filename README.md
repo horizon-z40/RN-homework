@@ -7,4 +7,4 @@
 
 #### 运行结果:
 
-![](https://github.com/horizon-z40/RN-homework/zsl.jpg)
+![](https://github.com/horizon-z40/RN-homework/result/zsl.jpg)
