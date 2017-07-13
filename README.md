@@ -7,4 +7,4 @@
 
 #### 运行结果:
 
-![]('VM-result.png')
+![](https://github.com/horizon-z40/RN-homework/zsl.jpg)
